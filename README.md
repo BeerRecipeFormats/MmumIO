@@ -1,3 +1,3 @@
 # MmumIO
 
-A description of this package.
+Importer and exporter for MaischeMalzundMehr recipes.
